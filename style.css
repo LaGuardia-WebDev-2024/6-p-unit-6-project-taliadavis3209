@@ -19,13 +19,13 @@ html{
 
 #myCanvas {
   border-radius: 30px;
-  border: 15px double rgb(0, 0, 0);
+  border: 20px double rgb(218, 17, 17);
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(243, 160, 222);
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 60px;
@@ -37,7 +37,7 @@ html{
   width: 400px;
   object-fit: cover;
   border-radius: 30px;
-  border: 15px double rgb(0, 0, 0);
+  border: 20px double rgb(93, 22, 224);
 }
 
 h2{
